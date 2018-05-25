@@ -66,7 +66,7 @@ songsim <- function(path = NULL, colorfulMode = FALSE,
   
   songLyrics_string <- strsplit(songLyrics, "", fixed = TRUE)
 
-  songWords <- strsplit(paste0(songLyrics, collapse = " "), " ")[[1]]
+  songWords <- strsplit(paste0(songLyrics_string, collapse = " "), " ")[[1]]
 
   songWords <- tolower(gsub("[[:punct:]]", "", songWords))
 
