@@ -1,0 +1,14 @@
+1. Index - Combine fraction index with F.3 ONLY (No need graph or 文字題)
+2. Algebraic 
+ - Expand 
+ - Factorize using cross (No need cubic or just in form of x^2+bx+c)
+ - Simplify 通分母or 乘除 til quadratics function
+ - Completing square
+ - Do proof
+3. Make subject (need square root)
+
+5. Variation (No need partly)
+6. Simul (need graphic solve)
+7. Quadratics Eqaution (Need More about equation)
+   - Need solve eqn by completing square
+8. Linear programming and quadratics inequalities
