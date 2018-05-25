@@ -63,6 +63,8 @@ songsim <- function(path = NULL, colorfulMode = FALSE,
                     heatmaplyOptions = NULL,
                     plotMatrix = TRUE) {
   songLyrics <- readLines(path)
+  
+  songLyrics_string <- strsplit(songLyrics, " ")
 
   songWords <- strsplit(paste0(songLyrics, collapse = " "), " ")[[1]]
 
